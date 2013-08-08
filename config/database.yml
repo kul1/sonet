@@ -9,9 +9,9 @@ development:
   database: nitin_sonet
   pool: 5
   username: root
-  password: root
-  socket: /var/run/mysqld/mysqld.sock
-
+  password: dpassword
+#  socket: /var/run/mysqld/mysqld.sock
+  socket: /Applications/MAMP/tmp/mysql/mysql.sock
 #development:
 #  adapter: postgresql
 #  encoding: unicode
